@@ -1,0 +1,24 @@
+SMART MAINTAIN – GOOGLE DRIVE PHOTO LINK DEPLOYMENT
+
+The supplied Google Drive image links have been added to the website photo map.
+The website loads the image directly from Google Drive thumbnail URLs, so you do not need to upload these 25 JPG files to GitHub.
+
+IMPORTANT – GOOGLE DRIVE PERMISSIONS
+For each of the 25 files, open Share > General access > Anyone with the link > Viewer.
+If BPCL policy does not permit public-link access, do not use this method; use an approved authenticated storage service instead.
+The image URLs have not been tested against your Drive permissions from this package build.
+
+DEPLOY
+1. Extract this ZIP.
+2. Replace the root index.html in your existing GitHub Pages repository.
+3. Keep the repository's existing backend deployment unchanged; this is a frontend photo-map change.
+4. Commit changes and wait for GitHub Pages to publish.
+5. Open the website and hard refresh (Ctrl+F5).
+
+QR
+The existing QR button and equipment-specific profile URL flow are retained. QR scans open the matching equipment profile using the GitHub Pages URL and equipment ID query parameter.
+For each asset, click QR and scan with a second phone to test.
+
+MAPPING NOTE
+- The supplied Cooling Tower overall-unit photo is included in the mapping manifest but not attached to a profile because the current register has no separate overall Cooling Tower asset (only Cooling Tower Motor 1 and 2).
+- LPG Pump 3 is mapped to GND-AMC-20 (LPG Pump 20 HP) as the third pump record. Please verify the physical asset identity before relying on that mapping.

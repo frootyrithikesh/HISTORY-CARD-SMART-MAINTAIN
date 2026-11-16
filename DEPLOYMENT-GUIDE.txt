@@ -1,0 +1,36 @@
+SMART MAINTAIN – GONDA LPG PLANT
+UPDATED EQUIPMENT PHOTOS PACKAGE
+
+This package adds the 16 original equipment photographs uploaded in the latest chat message.
+The uploaded image files are copied byte-for-byte. No resizing, cropping, recompression, enhancement, or retouching has been applied.
+
+CONTENTS
+- index.html: updated website with equipment-profile photo mappings
+- equipment-images/: original photo files, retaining their exact uploaded filenames
+- Code.gs: backend file from the existing package (included for reference)
+- PHOTO-MAPPING-NEW.txt: equipment IDs mapped to uploaded original photos
+- PHOTO-AND-QR-MANIFEST.json: existing photo/QR manifest
+
+PHOTO MAPPINGS
+- DU 1 / DU 2 / DU 3 / DU 4: mapped to their corresponding DU motor equipment records
+- Boom 1 motor: mapped to Boom motor 01
+- DV Air Compressor 1 and 2: mapped to DV compressor records 1 and 2
+- Cooling tower Motor 1 and 2: mapped to the two cooling tower motor records
+- Air Compressor no1 / no2 / no3: mapped to air compressor records 1 / 2 / 3
+- Air Compressor 4: mapped to AMC Air Compressor 4 record
+- Air Dryer: mapped to the Air Dryer AMC record
+- Evacuation Compressor: mapped to the evacuation compressor equipment record
+- cooling Tower.jpg is included unchanged. It is not automatically attached to a motor record because the equipment register currently has separate cooling tower motor records but no distinct overall cooling-tower asset record.
+
+DEPLOYMENT
+1. Extract this ZIP.
+2. In the existing GitHub Pages repository, replace the root index.html with this package's index.html.
+3. Upload the complete equipment-images folder to the repository root. Preserve the folder name and original image filenames.
+4. Commit/push and wait for GitHub Pages to publish.
+5. Open the website and hard-refresh (Ctrl+F5).
+6. Open the relevant equipment profiles and verify the photos.
+
+IMPORTANT
+The image files must be uploaded alongside index.html. If only index.html is uploaded, GitHub Pages will not find the photo files.
+No Apps Script redeployment is required for these frontend photo changes.
+The QR codes and their existing website base URL are retained from the previous package.

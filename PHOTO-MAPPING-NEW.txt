@@ -1,0 +1,23 @@
+SMART MAINTAIN – ORIGINAL EQUIPMENT PHOTO MAPPING
+
+These photos are copied byte-for-byte from the images uploaded in this chat. No crop, resize, recompression, or enhancement was applied.
+
+GND-E08-01 -> DU no 1.jpg
+GND-E08-02 -> DU.NO 2.jpg
+GND-E09-01 -> DU no-3.jpg
+GND-E09-02 -> DU no 4.jpg
+GND-E11-01 -> Boom 1 motor.jpg
+GND-E12 -> DV Air Compressor 1.jpg
+GND-E13 -> DV Air compressor 2.jpg
+GND-E14 -> Cooling tower Motor 1.jpg
+GND-E15 -> Cooling tower Motor 2.jpg
+GND-E17 -> Air Compressor no1.jpg
+GND-E18 -> Air Compressor no2.jpg
+GND-E19 -> Air compressor no3.jpg
+GND-E27 -> Evacuation Compressor.jpg
+GND-AMC-13 -> Air Dryer.jpg
+GND-AMC-19 -> Air Compressor 4.jpg
+GND-AMC-08 -> Air compressor no3.jpg
+GND-AMC-09 -> Air Compressor no1.jpg
+
+Cooling tower.jpg is included as an additional original photo. The current equipment register has separate cooling-tower motor records but no distinct cooling-tower asset record to safely attach this overall-unit photo to. It is retained in the photo folder and not incorrectly assigned.

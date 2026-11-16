@@ -1,0 +1,33 @@
+EQUIPMENT PHOTO MAPPING (original files; unmodified)
+
+GND-E01 -> TRANSFORMER.jpg
+GND-E02 -> ACB PANEL.jpg
+GND-E03 -> LT PANEL CHANGE OVER.jpg
+GND-E04-01 -> LT PANEL 01.jpg
+GND-E04-02 -> LT PANEL 02.jpg
+GND-E05 -> LT NEW PANEL.jpg
+GND-E06 -> DG CUMMINS 320KVA.jpg
+GND-E07 -> DG 160KVA KILOSKAR.jpg
+GND-E08-01 -> DU no 1.jpg
+GND-E08-02 -> DU.NO 2.jpg
+GND-E09-01 -> DU no-3.jpg
+GND-E09-02 -> DU no 4.jpg
+GND-E11-01 -> Boom 1 motor.jpg
+GND-E13 -> DV Air compressor 2.jpg
+GND-E17 -> Air Compressor no1.jpg
+GND-E18 -> Air Compressor no2.jpg
+GND-E19 -> Air compressor no3.jpg
+GND-E20 -> washing unit Motor.jpg
+GND-E21 -> washing unit filter motor.jpg
+GND-E24 -> VCM motor.jpg
+GND-AMC-08 -> Air compressor no3.jpg
+GND-AMC-09 -> Air Compressor no1.jpg
+GND-AMC-13 -> Air Dryer.jpg
+GND-AMC-18 -> VCM motor.jpg
+GND-AMC-19 -> Air Compressor 4.jpg
+
+Unassigned originals (filename does not identify equipment):
+IMG20261115105614.jpg
+IMG20261115110154.jpg
+
+DU no 1.jpg and DU no 4.jpg were duplicated byte-for-byte across two source ZIPs; one copy of each identical original is included.
